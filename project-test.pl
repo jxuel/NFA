@@ -16,7 +16,7 @@
 ######## Edit the following to reflect your directory (mandatory):
 
 # root directory for the test files
-$test_files_root = "$ENV{HOME}/Desktop/csce355/test-files";
+$test_files_root = "./test-files";
 
 ######## Editing below this line is strictly optional. ########
 

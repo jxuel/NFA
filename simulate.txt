@@ -1,6 +1,6 @@
 Build:
-    ghc ./src/simulator.hs || stack ghc /src/simulator.hs
-    rm *.hi *.o
-
+    ghc ./src/simulator.hs || stack ghc ./src/simulator.hs
+    rm ./src/*.hi && rm ./src/*.o
+    mv ./src/simulator ./simulator
 Run:
     ./simulator
