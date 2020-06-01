@@ -1,0 +1,6 @@
+Build:
+    ghc ./src/simulator.hs || stack ghc /src/simulator.hs
+    rm *.hi *.o
+
+Run:
+    ./simulator

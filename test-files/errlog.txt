@@ -1,0 +1,5 @@
+comments.txt exists -- making backup comments.bak
+
+Done.
+Comments are in /Users/apple/Desktop/csce355/test-files/comments.txt
+

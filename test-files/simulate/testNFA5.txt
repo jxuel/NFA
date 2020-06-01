@@ -1,0 +1,4 @@
+Number of states: 1
+Alphabet size: 26
+Accepting states: 0
+{} {0} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {} {0}

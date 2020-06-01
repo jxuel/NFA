@@ -1,0 +1,11 @@
+Comments for self-test -------- Sun Nov 10, 2019 at 23:16:16 EST
+######################################################
+Summary for self-test:
+
+e-remove: not implemented -- e-remove.txt does not exist
+  progress level 0 with 0 execution errors
+simulate: not implemented -- simulate.txt does not exist
+  progress level 0 with 0 execution errors
+
+There were a total of 0 execution errors found.
+######################################################

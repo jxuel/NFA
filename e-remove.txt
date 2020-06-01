@@ -1,0 +1,5 @@
+Build:
+    g++ -o epsilonREmover ./src/epsilonREmover.cpp
+
+Run:
+    ./epsilonREmover

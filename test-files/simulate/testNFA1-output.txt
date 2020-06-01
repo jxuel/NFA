@@ -1,0 +1,12 @@
+accept
+accept
+reject
+accept
+accept
+accept
+reject
+accept
+reject
+reject
+accept
+reject
